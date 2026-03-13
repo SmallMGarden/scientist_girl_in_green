@@ -1,3 +1,5 @@
 __pycache__/
 tokenizer_env/
 .DS_Store
+ai_tool/config.yaml
+experiment_doc_15_scout_2/
